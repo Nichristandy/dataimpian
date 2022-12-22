@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dataimpian/static/css/main.a035ac81.css",
+    "main.js": "/dataimpian/static/js/main.49ebb320.js",
+    "static/js/787.96f37f7a.chunk.js": "/dataimpian/static/js/787.96f37f7a.chunk.js",
+    "index.html": "/dataimpian/index.html",
+    "main.a035ac81.css.map": "/dataimpian/static/css/main.a035ac81.css.map",
+    "main.49ebb320.js.map": "/dataimpian/static/js/main.49ebb320.js.map",
+    "787.96f37f7a.chunk.js.map": "/dataimpian/static/js/787.96f37f7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a035ac81.css",
+    "static/js/main.49ebb320.js"
+  ]
+}
